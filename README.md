@@ -18,6 +18,7 @@ If I can, I'd like to connect you with a project you'll love!
 
 
 -- HTML5, CSS3, Javascript, React, Redux, Node, Express, GraphQL, Python, SQL --
+
 -- WordPress, Drupal, Joomla, MyBB, vBullettin, MediaWiki --
 
 https://totalityworks.com
