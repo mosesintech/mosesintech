@@ -59,10 +59,10 @@ This app is being developed using Test Driven Development.
 Repo: https://github.com/theSynaxis/holy-quotes
 
 ## Websites I've built (that are still online)
-1. TotalityWorks.com    - WordPress and Gatsby.js
-2. VeneziaMidland.com   - WordPress and Gatsby.js
-3. PadlockMedia.com     - WordPress
-4. PlatinumSignings.com - WordPress
+1. https://TotalityWorks.com    - WordPress and Gatsby.js
+2. https://VeneziaMidland.com   - WordPress and Gatsby.js
+3. https://PadlockMedia.com     - WordPress
+4. https://PlatinumSignings.com - WordPress
 
 ## My Company - Totality Works
 Totality Works is the WordPress agency I started when I began freelancing.
