@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on:
      1. The Synaxis - a series of apps for Eastern Orthodox Christians (https://thesynaxis.com)
      2. The Missing Details of Software Development - a language agnostic reference book for programming beginners
-- 🌱 I’m currently learning advanced PHP development and SEO.
+- 🌱 I’m currently learning advanced React and Graphql.
 - 👯 I’m looking to collaborate on headless WordPress, Gatsby, and GraphQL work.
 - 🤔 I’m looking for help with finding a team to work with, to help fill knowledge gaps.
 - 💬 Ask me about WordPress or Church history.
