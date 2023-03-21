@@ -2,8 +2,8 @@
 
 - 📫 How to reach me: moses@totalityworks.com
 - 💜 Favorite Color: Purple, always.
-- 📺 Favorite Shows: DragonBall (and Z, GT, but not Super), Doctor Who, Burn Notice, NCIS.
-- 🎮 Favorite Game: Skyrim, no question. But if we're talking board games then Catan, and if card games then the old school DBZ.
+- 📺 Favorite Shows: DragonBall (& Z, GT, but not Super), Doctor Who, Burn Notice, NCIS.
+- 🎮 Favorite Game: Skyrim, Catan, and D&D.
 
 ## Skills
 
@@ -28,23 +28,14 @@ This is currently a work in progress.
 
 Repo: https://github.com/TotalityWorks/wpgravitybundle
 
-### The Synaxis (WIP)
-This is meant to be a series of web and mobile apps for Eastern Orthodox Christians.
-First, I plan on building a quotes app that will deliver daily quotes from our saints.
-It should also have Scripture references and allow you to compile your own list of quotations and export them according to your citation needs.
-This, I hope, will be good for the layman, seminarians (for papers), and clergy (for homilies).
-This app is being developed using Test Driven Development.
+## Open Source Projects I've Contributed To
 
-Repos: 
+### WPGraphQL for Gravity Forms
 
-https://github.com/mosesintech/theSynaxis.com
+A WordPress plugin that provides a GraphQL API for interacting with Gravity Forms.
+Repo: https://github.com/harness-software/wp-graphql-gravity-forms
 
-https://github.com/mosesintech/theSynaxisUI
+### gatsby-theme-headless-wordpress
 
-https://github.com/mosesintech/theSynaxisServer
-
-## Websites I've built (that are still online)
-1. https://mosesmaxcosme.com    - WordPress and Gatsby.js
-2. https://TotalityWorks.com    - WordPress and Gatsby.js
-3. https://VeneziaMidland.com   - WordPress and Gatsby.js
-4. https://PadlockMedia.com     - WordPress
+This plugin handles creating pages in Gatsby for all of the content sourced by gatsby-source-wordpress.
+Repo: https://github.com/CalebBarnes/gatsby-theme-headless-wordpress
