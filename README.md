@@ -33,9 +33,11 @@ Repo: https://github.com/TotalityWorks/wpgravitybundle
 ### WPGraphQL for Gravity Forms
 
 A WordPress plugin that provides a GraphQL API for interacting with Gravity Forms.
+
 Repo: https://github.com/harness-software/wp-graphql-gravity-forms
 
 ### gatsby-theme-headless-wordpress
 
 This plugin handles creating pages in Gatsby for all of the content sourced by gatsby-source-wordpress.
+
 Repo: https://github.com/CalebBarnes/gatsby-theme-headless-wordpress
