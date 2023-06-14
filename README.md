@@ -17,7 +17,7 @@
 
 ## Things I've Built
 
-### WPGravityBundle (WIP)
+### WPGravityBundle
 Headless WordPress websites are my favorite projects to work on, and I feel that they may be the future of WordPress.
 Gravity Forms is a WordPress plugin that gives you a very powerful dashboard to create your own forms.
 WPGraphQL is a WordPress plugin that wraps WordPress in a GraphQL API so that you can query your data for the frontend of your website.
