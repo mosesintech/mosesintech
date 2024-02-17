@@ -1,6 +1,9 @@
 # Moses Maximino Cosme II - ☦️🇺🇸🇵🇷
 
-- 📫 How to reach me: moses@totalityworks.com
+- 📫 How to reach me:
+  - LinkedIn: https://www.linkedin.com/in/moses-maximino-cosme-ii
+  - Twitter: https://twitter.com/mosesintech
+  - Discord: mosesintech#7145
 - 💜 Favorite Color: Purple, always.
 - 📺 Favorite Shows: Doctor Who & Burn Notice.
 - 🎮 Favorite Games: Skyrim, Catan, and D&D.
