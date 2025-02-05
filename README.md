@@ -1,15 +1,22 @@
 # Moses Maximino Cosme II
 
+I am a fullstack developer and UX designer with 5 years of development experience and over 10 years of
+design experience. My work is largely customer-facing, bridging the gap between management,
+stakeholders, designers, and developers to ensure seamless collaboration. I mentor aspiring developers
+through Discord, have published 2 npm packages, and have contributed to a number of open source
+projects.
+
+Languages, Technologies, and Skills:
+●​ Languages: JavaScript, TypeScript, NodeJS, PHP, SQL, HTML5, CSS3
+●​ Technologies: React, Redux Toolkit, tRPC, Webpack, Vite, GraphQL, Docker, MySQL, Postgres,
+Material UI, Tailwind, Figma
+●​ Skills: UX Design, CI/CD, Unit Testing, End-to-end Testing, Documentation, SEO
+
 - LinkedIn: https://www.linkedin.com/in/moses-maximino-cosme-ii
 
-## Skills
+## Discord
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+Want to join a cool discord for aspiring developers? I share daily resources, tips, and tricks, and am always available to answer any questions or help you debug any problem you're experiencing. Here's the invite link: https://discord.gg/2GxvYzz9Fa
 
 ## Things I've Built
 
@@ -62,3 +69,9 @@ Repo: https://github.com/harness-software/wp-graphql-gravity-forms
 This plugin handles creating pages in Gatsby for all of the content sourced by gatsby-source-wordpress.
 
 Repo: https://github.com/CalebBarnes/gatsby-theme-headless-wordpress
+
+### Turso documentation
+
+Turso is a SQLite-compatible database built on libSQL, the Open Contribution fork of SQLite.
+
+Repo: https://github.com/tursodatabase/turso-docs
