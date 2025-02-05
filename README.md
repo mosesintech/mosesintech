@@ -1,12 +1,6 @@
-# Moses Maximino Cosme II - ☦️🇺🇸🇵🇷
+# Moses Maximino Cosme II
 
-- 📫 How to reach me:
-  - LinkedIn: https://www.linkedin.com/in/moses-maximino-cosme-ii
-  - Twitter: https://twitter.com/mosesintech
-  - Discord: mosesintech#7145
-- 💜 Favorite Color: Purple, always.
-- 📺 Favorite Shows: Doctor Who & Burn Notice.
-- 🎮 Favorite Games: Skyrim, Catan, and D&D.
+- LinkedIn: https://www.linkedin.com/in/moses-maximino-cosme-ii
 
 ## Skills
 
@@ -19,16 +13,23 @@
 
 ## Things I've Built
 
+### The Synaxis (WIP)
+
+An open source multipurpose app for Orthodox Christians: daily lives of the saints, a quotes repository,
+a place to generate saint quote images, and a calendar of services for every Metropolitan area. It is a full
+stack app built using TypeScript, React, Next.js, tRPC, Drizzle, Postgres, and Tailwind. It was designed
+using Figma and is deployed on Vercel. While it is not yet fully completed, it is in its final stages of
+development.
+
+Repo: https://github.com/theSynaxis/SynaxisApp
+Staging: https://staging.thesynaxis.com
+
 ### WPGravityBundle (No Longer Maintained)
-Headless WordPress websites are my favorite projects to work on, and I feel that they may be the future of WordPress.
-Gravity Forms is a WordPress plugin that gives you a very powerful dashboard to create your own forms.
-WPGraphQL is a WordPress plugin that wraps WordPress in a GraphQL API so that you can query your data for the frontend of your website.
-Personally, I use Gatsby.js for my headless projects.
-Letting WordPress & Gravity Forms handle the functionality of forms is a boon for any headless WordPress site, and since I imagine that I'll be using this combo into the future, I decided to try to publish my own npm package called WPGravityBundle.
-This package will take your Gravity Forms data, map through it to present the form fields and return the values when submitted, so you can plug them into your mutation.
-This is currently a work in progress.
+
+I am the creator and maintainer of WPGravityBundle, an open source npm package. This package handles forms built with the WordPress plugin Gravity Forms in headless configurations of WordPress in React.js, using the plugins WPGraphQL and WPGraphQL for Gravity Forms. State, error validation, and your GraphQL mutation are all handled with this one package and two lines of code.I am the creator and maintainer of WPGravityBundle, an open source npm package. This package handles forms built with the WordPress plugin Gravity Forms in headless configurations of WordPress in React.js, using the plugins WPGraphQL and WPGraphQL for Gravity Forms. State, error validation, and your GraphQL mutation are all handled with this one package and two lines of code.
 
 Repo: https://github.com/TotalityWorks/wpgravitybundle
+npm: https://www.npmjs.com/package/wpgravitybundle
 
 ## Open Source Projects I've Contributed To
 
