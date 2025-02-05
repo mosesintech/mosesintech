@@ -7,9 +7,12 @@ through Discord, have published 2 npm packages, and have contributed to a number
 projects.
 
 Languages, Technologies, and Skills:
+
 ●​ Languages: JavaScript, TypeScript, NodeJS, PHP, SQL, HTML5, CSS3
+
 ●​ Technologies: React, Redux Toolkit, tRPC, Webpack, Vite, GraphQL, Docker, MySQL, Postgres,
 Material UI, Tailwind, Figma
+
 ●​ Skills: UX Design, CI/CD, Unit Testing, End-to-end Testing, Documentation, SEO
 
 - LinkedIn: https://www.linkedin.com/in/moses-maximino-cosme-ii
