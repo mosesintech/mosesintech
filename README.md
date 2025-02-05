@@ -8,12 +8,12 @@ projects.
 
 Languages, Technologies, and Skills:
 
--​ Languages: JavaScript, TypeScript, NodeJS, PHP, SQL, HTML5, CSS3
+- Languages: JavaScript, TypeScript, NodeJS, PHP, SQL, HTML5, CSS3
 
--​ Technologies: React, Redux Toolkit, tRPC, Webpack, Vite, GraphQL, Docker, MySQL, Postgres,
+- Technologies: React, Redux Toolkit, tRPC, Webpack, Vite, GraphQL, Docker, MySQL, Postgres,
 Material UI, Tailwind, Figma
 
--​ Skills: UX Design, CI/CD, Unit Testing, End-to-end Testing, Documentation, SEO
+- Skills: UX Design, CI/CD, Unit Testing, End-to-end Testing, Documentation, SEO
 
 ## Contact me on LinkedIn:
 
