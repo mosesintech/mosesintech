@@ -34,6 +34,7 @@ using Figma and is deployed on Vercel. While it is not yet fully completed, it i
 development.
 
 Repo: https://github.com/theSynaxis/SynaxisApp
+
 Staging: https://staging.thesynaxis.com
 
 ### WPGravityBundle (No Longer Maintained)
@@ -41,6 +42,7 @@ Staging: https://staging.thesynaxis.com
 I am the creator and maintainer of WPGravityBundle, an open source npm package. This package handles forms built with the WordPress plugin Gravity Forms in headless configurations of WordPress in React.js, using the plugins WPGraphQL and WPGraphQL for Gravity Forms. State, error validation, and your GraphQL mutation are all handled with this one package and two lines of code.I am the creator and maintainer of WPGravityBundle, an open source npm package. This package handles forms built with the WordPress plugin Gravity Forms in headless configurations of WordPress in React.js, using the plugins WPGraphQL and WPGraphQL for Gravity Forms. State, error validation, and your GraphQL mutation are all handled with this one package and two lines of code.
 
 Repo: https://github.com/TotalityWorks/wpgravitybundle
+
 npm: https://www.npmjs.com/package/wpgravitybundle
 
 ## Open Source Projects I've Contributed To
